@@ -1,7 +1,8 @@
 # BITWALA CODING TASK
 APIs for fetching block list and details of each block and it's transactions list
 
-#ENDPOINTS
+# ENDPOINTS
+
 https://blocklist-api-vinay.herokuapp.com/blocksList?page=1
 To fetch the blocks list with pagination. 10 blocks per page. 
 

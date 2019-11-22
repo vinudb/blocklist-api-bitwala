@@ -1,4 +1,3 @@
-# BITWALA CODING TASK
 APIs for fetching block list and details of each block and it's transactions list
 
 # ENDPOINTS
